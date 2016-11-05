@@ -1,0 +1,22 @@
+{
+  "name": "auto_http",
+  "version": "1.0.2",
+  "description": "HTTP method and method body will show in server console automatically ",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiririn00/Auto-HTTP.git"
+  },
+  "keywords": [
+    "HTTP"
+  ],
+  "author": "endopasmic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiririn00/Auto-HTTP/issues"
+  },
+  "homepage": "https://github.com/Kiririn00/Auto-HTTP#readme"
+}
