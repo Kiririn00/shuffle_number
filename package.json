@@ -1,22 +1,23 @@
 {
-  "name": "auto_http",
-  "version": "1.0.2",
-  "description": "HTTP method and method body will show in server console automatically ",
-  "main": "./lib",
+  "name": "shuffle_range_number",
+  "version": "1.0.3",
+  "description": "this package will use shuffle algorithm for random the integer.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kiririn00/Auto-HTTP.git"
+    "url": "git+https://github.com/Kiririn00/shuffle_number.git"
   },
   "keywords": [
-    "HTTP"
+    "random",
+    "number"
   ],
   "author": "endopasmic",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kiririn00/Auto-HTTP/issues"
+    "url": "https://github.com/Kiririn00/shuffle_number/issues"
   },
-  "homepage": "https://github.com/Kiririn00/Auto-HTTP#readme"
+  "homepage": "https://github.com/Kiririn00/shuffle_number#readme"
 }
